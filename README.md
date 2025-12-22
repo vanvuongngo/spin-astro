@@ -6,7 +6,7 @@ This is a simple [Astro](https://docs.astro.build/en/getting-started/) starter w
 ## Build
 
 ```
-npm run build
+pnpm build
 ```
 
 Re-compiles the Astro site to the `/dist` directory. This directory can be [modified](https://docs.astro.build/en/reference/configuration-reference/#base) in the Astro config.mjs file.
@@ -15,7 +15,7 @@ Re-compiles the Astro site to the `/dist` directory. This directory can be [modi
 ## Dev
 
 ```
-npm run dev
+pnpm dev
 ```
 
 This runs Astro via Spin.

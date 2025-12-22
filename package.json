@@ -1,13 +1,14 @@
 {
   "name": "spin-astro",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "scripts": {
     "dev": "spin up --listen 0.0.0.0:4321 --build",
     "astro": "spin up",
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^5.10.2"
-  }
+    "astro": "^5.16.6"
+  },
+  "packageManager": "pnpm@10.26.1"
 }
